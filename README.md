@@ -1,73 +1,9 @@
 <div align="center">
 
-<!-- Epic Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,30,26&height=350&section=header&text=Payman+Supervizer&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=50" />
-
-</div>
-
-<!-- OPTION 2: Glitch Matrix Style -->
+<!-- Neon Hologram Effect -->
 <div align="center">
 
-[![Matrix Header](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=120&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&multiline=true&width=1200&height=400&lines=P+A+Y+M+A+N;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+SUPERVIZER+%E2%96%93%E2%96%93%E2%96%93)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- OPTION 3: Terminal Hacker Style -->
-<div align="center">
-
-[![Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=4000&pause=1000&color=DA70D6&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=root%40neural-core:~%23+echo+%22Welcome%22;root%40neural-core:~%23+whoami;PAYMAN+SUPERVIZER;root%40neural-core:~%23+cat+%2Fetc%2Fskills;AI+%7C+CYBERSEC+%7C+NEURAL+%7C+THREAT+INTEL;root%40neural-core:~%23+sudo+access+granted)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- OPTION 4: Neon Hologram Effect -->
-<div align="center">
-
-[![Neon](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=100&duration=2000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=%E2%96%88%E2%96%88%E2%96%88+PAYMAN+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+SUPERVIZER+%E2%96%93%E2%96%93%E2%96%93;%E2%96%91%E2%96%91%E2%96%91+NEURAL+CORE+%E2%96%91%E2%96%91%E2%96%91)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- OPTION 5: Custom Matrix Rain with Name -->
-<div align="center">
-
-```
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⣿⣿⣿
-⣿⣿⣿   ██████╗  █████╗ ██╗   ██╗███╗   ███╗ █████╗ ███╗   ██╗   ⣿⣿⣿
-⣿⣿⣿   ██╔══██╗██╔══██╗╚██╗ ██╔╝████╗ ████║██╔══██╗████╗  ██║   ⣿⣿⣿
-⣿⣿⣿   ██████╔╝███████║ ╚████╔╝ ██╔████╔██║███████║██╔██╗ ██║   ⣿⣿⣿
-⣿⣿⣿   ██╔═══╝ ██╔══██║  ╚██╔╝  ██║╚██╔╝██║██╔══██║██║╚██╗██║   ⣿⣿⣿
-⣿⣿⣿   ██║     ██║  ██║   ██║   ██║ ╚═╝ ██║██║  ██║██║ ╚████║   ⣿⣿⣿
-⣿⣿⣿   ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ⣿⣿⣿
-⣿⣿⣿⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⣿⣿⣿
-⣿⣿⣿                    SUPERVIZER                    ⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-```
-
-[![Matrix Rain](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=500&pause=100&color=00FF41&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=01110000+01100001+01111001+01101101+01100001+01101110+00100000+01110011+01110101+01110000+01100101+01110010+01110110+01101001+01111010+01100101+01110010;01001110+01100101+01110101+01110010+01100001+01101100+00100000+01001110+01100101+01110100+01110111+01101111+01110010+01101011+00100000+01000001+01110010+01100011+01101000+01101001+01110100+01100101+01100011+01110100;01000001+01110010+01110100+01101001+01100110+01101001+01100011+01101001+01100001+01101100+00100000+01001001+01101110+01110100+01100101+01101100+01101100+01101001+01100111+01100101+01101110+01100011+01100101;01000011+01111001+01100010+01100101+01110010+00100000+01010011+01100101+01100011+01110101+01110010+01101001+01110100+01111001+00100000+01000101+01111000+01110000+01100101+01110010+01110100)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- OPTION 6: Glitch Art Header -->
-<div align="center">
-
-[![Glitch](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=90&duration=1000&pause=500&color=FF0080&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=P̸̰̈Ä̵́Y̶̌M̵̊A̸̽N̴̄;%E2%96%88%E2%96%88%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%93%E2%96%93%E2%96%88%E2%96%88%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%93%E2%96%93%E2%96%88%E2%96%88%E2%96%93%E2%96%93%E2%96%91%E2%96%91%E2%96%93%E2%96%93%E2%96%88%E2%96%88;S̷̈Ǘ̴P̶̌Ë̵R̸̽V̴̄I̸̊Z̵̄Ë̸Ř̴)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<!-- OPTION 7: Massive 3D Effect -->
-<div align="center">
-
-[![3D Effect](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=60&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&multiline=true&width=1000&height=400&lines=PPPPP++++AAAAA++++YYYYY++++MMMMM++++AAAAA++++NNNNN;PP++PP+++AA+AA+++YY+YY+++MM+MM+++AA+AA+++NN+NN;PPPPP++++AAAAA++++YYYYY+++MMMMM++++AAAAA++++NNNNN;PP+++++++AAAAA++++++YY++++MM+MM+++AAAAA++++NN+NN;PP+++++++AA+AA++++++YY++++MM+MM+++AA+AA+++NN+NN)](https://git.io/typing-svg)
+[![Neon](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=100&duration=2000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=%E2%96%88%E2%96%88%E2%96%88+PAYMAN+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+SUPERVIZER+%E2%96%93%E2%96%93%E2%96%93)](https://git.io/typing-svg)
 
 </div>
 
