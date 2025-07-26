@@ -3,7 +3,7 @@
 <!-- Neon Hologram Effect -->
 <div align="center">
 
-[![Neon](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=100&duration=2000&pause=800&color=0bc7d4&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=%E2%96%88%E2%96%88%E2%96%88+PAYMAN+%E2%96%88%E2%96%88%E2%96%88;%E2%96%93%E2%96%93%E2%96%93+SUPERVIZER+%E2%96%93%E2%96%93%E2%96%93)](https://git.io/typing-svg)
+[![Neon](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=100&duration=2000&pause=800&color=0bc7d4&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=PAYMAN;SUPERVIZER)](https://git.io/typing-svg)
 
 </div>
 
