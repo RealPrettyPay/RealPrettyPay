@@ -7,6 +7,8 @@
 
 </div>
 
+
+![copy_5D7F25C5-9C1D-49C6-A594-83CB15D0D528](https://github.com/user-attachments/assets/39821fc2-f4a4-4ca6-a330-56055750be76)
 <!-- Mind-Bending Typing Animation -->
 <div align="center">
 
@@ -120,8 +122,6 @@ THREAT INTEL:     ████████████████████�
 </div>
 
 </details>
-
-![copy_5D7F25C5-9C1D-49C6-A594-83CB15D0D528](https://github.com/user-attachments/assets/39821fc2-f4a4-4ca6-a330-56055750be76)
 
 
 <!--
