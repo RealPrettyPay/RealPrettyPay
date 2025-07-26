@@ -38,10 +38,10 @@
 <div align="center">
 
 [![Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=1500&color=DA70D6&center=true&vCenter=true&multiline=true&width=800&height=300&lines=HELLO...;...;Hello_World!)](https://git.io/typing-svg)
-
 </div>
 <!-- AI Processing Animation -->
 <div align="center">
+    
 ```
 AI CORE:          ████████████████████████████████████████ 100%
 NEURAL NETWORKS:  ████████████████████████████████████████ 100%
