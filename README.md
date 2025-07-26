@@ -37,7 +37,7 @@
 <!-- Cyber Security Console -->
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=1500&color=DA70D6&center=true&vCenter=true&multiline=true&width=800&height=300&lines=root%40neural-core:~%23+nmap+-sS+-O+target.network;Starting+Nmap+scan...;Host+discovery+complete.+Scanning+256+hosts.;PORT++++STATE+++SERVICE;22%2Ftcp++open+++ssh;80%2Ftcp++open+++http;443%2Ftcp+open+++https;THREAT+ANALYSIS:+COMPLETE;VULNERABILITIES:+IDENTIFIED;NEURAL+NETWORK:+PROCESSING;AI+CLASSIFICATION:+MALICIOUS;COUNTERMEASURES:+DEPLOYED)](https://git.io/typing-svg)
+[![Terminal](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=14&duration=3000&pause=1500&color=DA70D6&center=true&vCenter=true&multiline=true&width=800&height=300&lines=HELLO...;...;Hello_World!)](https://git.io/typing-svg)
 
 </div>
 
