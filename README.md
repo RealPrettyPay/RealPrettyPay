@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11,20&height=400&section=header&text=PAYMAN%20SUPERVIZER&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SUPERVIZER%20CAPITAL&descAlignY=58&descAlign=50&descSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,6,11,20&height=400&section=header&text=PAYMAN%20SUPERVIZER&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38" />
 
 </div>
 
