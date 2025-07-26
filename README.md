@@ -8,7 +8,7 @@
 <!-- Mind-Bending Animated Typing -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=ARTIFICIAL+INTELLIGENCE;INVESTMENT+STRATEGY;THREAT+INTELLIGENCE;DIGITAL+TRANSFORMATION;NEURAL+NETWORKS;QUANTUM+ALGORITHMS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=42&duration=2000&pause=800&color=FF0080&center=true&vCenter=true&multiline=true&random=false&width=1000&height=300&lines=ARTIFICIAL+INTELLIGENCE;CYBER+SECURITY;THREAT+INTELLIGENCE;DIGITAL+TRANSFORMATION;NEURAL+NETWORKS)](https://git.io/typing-svg)
 
 </div>
 
