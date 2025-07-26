@@ -57,7 +57,7 @@ THREAT INTEL:     ████████████████████�
 <!-- Contact Matrix -->
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌌_PERSONAL_BLOG-FF0080?style=for-the-badge&logoColor=white&labelColor=000000)](https://paymansupervizer.com)
+[![Portfolio](https://img.shields.io/badge/🌌_PERSONAL_BLOG-0bc7d4?style=for-the-badge&logoColor=white&labelColor=000000)](https://paymansupervizer.com)
 [![Network](https://img.shields.io/badge/🔗_LINKEDIN-00FF41?style=for-the-badge&logoColor=white&labelColor=000000)](https://linkedin.com/in/payman-supervizer)
 
 </div>
