@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Epic Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,30,26&height=350&section=header&text=Payman+Supervizer&fontSize=120&fontColor=fff&animation=fadeIn&fontAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,30,26&height=350&section=header&text=Payman+Supervizer&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=50" />
 
 </div>
 
