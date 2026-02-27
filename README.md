@@ -6,7 +6,7 @@
 
 [![Website](https://img.shields.io/badge/Website-paymansupervizer.com-0bc7d4?style=flat-square&logoColor=white)](https://paymansupervizer.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Payman_Supervizer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/payman-supervizer)
-[![](https://img.shields.io/badge/X-@paymansuper-000?style=flat-square&logo=x&logoColor=white)](https://x.com/paymansuper)
+[![](https://img.shields.io/badge/@paymansuper-000?style=flat-square&logo=x&logoColor=white)](https://x.com/paymansuper)
 
 </div>
 
