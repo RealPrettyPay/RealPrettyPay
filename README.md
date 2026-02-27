@@ -1,106 +1,46 @@
 <div align="center">
 
-<!-- Neon Hologram Effect -->
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Payman+Supervizer;Founder+%26+CEO+%40+Cubitics)](https://git.io/typing-svg)
 
-[![Neon](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=100&duration=2000&pause=800&color=0bc7d4&center=true&vCenter=true&multiline=true&width=1000&height=350&lines=PAYMAN;SUPERVIZER)](https://git.io/typing-svg)
+**Building Europe's sovereign AI infrastructure.**
 
-</div>
-
-
-![copy_5D7F25C5-9C1D-49C6-A594-83CB15D0D528](https://github.com/user-attachments/assets/39821fc2-f4a4-4ca6-a330-56055750be76)
-
-<!-- Digital Waves -->
-<div align="center">
-
-[![Waves](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=1000&height=100&lines=∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿∿;◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊◊;▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓;░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░)](https://git.io/typing-svg)
-
-</div>
-<!-- Mind-Bending Typing Animation -->
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=50&duration=2500&pause=1000&color=0bc7d4&center=true&vCenter=true&multiline=true&random=false&width=1000&height=350&lines=ARTIFICIAL+INTELLIGENCE;CYBER+SECURITY;NEURAL+NETWORKS;THREAT+INTELLIGENCE)](https://git.io/typing-svg)
+[![Website](https://img.shields.io/badge/Website-paymansupervizer.com-0bc7d4?style=flat-square&logoColor=white)](https://paymansupervizer.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Payman_Supervizer-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/payman-supervizer)
+[![X](https://img.shields.io/badge/X-@paymansuper-000?style=flat-square&logo=x&logoColor=white)](https://x.com/paymansuper)
 
 </div>
 
-<!-- AI Processing Animation -->
-<div align="center">
-    
-```
-AI CORE:          ████████████████████████████████████████ 100%
-NEURAL NETWORKS:  ████████████████████████████████████████ 100%
-CYBER SECURITY:   ████████████████████████████████████████ 100%
-THREAT INTEL:     ████████████████████████████████████████ 100%
-```
+---
 
-</div>
+### 🏗️ Ventures
 
+| Project | Description |
+|---------|-------------|
+| **[Cubitics](https://cubitics.com)** | Hyperscale GPU data centers & AI cloud across Europe |
+| **Starlex AI** | European foundation models & vertical AI applications |
+| **[VoteBase](https://votebase.de)** | Secure digital voting — Bitkom Smart Country Award 2022 🏆 |
 
-<!-- System Status Grid -->
-<div align="center">
+### ⚡ Tech Stack
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          NEURAL SYSTEM STATUS                               ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  AI ALGORITHMS        [████████████████████████████████████████] ACTIVE     ║
-║  NEURAL NETWORKS      [████████████████████████████████████████] LEARNING   ║
-║  CYBER DEFENSE        [████████████████████████████████████████] MONITORING ║
-║  THREAT DETECTION     [████████████████████████████████████████] SCANNING   ║
-║  INTELLIGENCE GATHER  [████████████████████████████████████████] ANALYZING  ║
-║  SECURITY PROTOCOLS   [████████████████████████████████████████] ENFORCED   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-</div>
+### 🛤️ Background
 
-<!-- Contact Matrix -->
-<div align="center">
+Cybersecurity → AI (since 2014) → Infrastructure. Started with pentesting & critical infrastructure at KPMG across automotive, pharma, finance, and aerospace. Now building the GPU compute layer Europe needs.
 
-[![Portfolio](https://img.shields.io/badge/🌌_PERSONAL_BLOG-0bc7d4?style=for-the-badge&logoColor=white&labelColor=000000)](https://paymansupervizer.com)
-[![Network](https://img.shields.io/badge/🔗_LINKEDIN-00FF41?style=for-the-badge&logoColor=white&labelColor=000000)](https://linkedin.com/in/payman-supervizer)
-
-</div>
-
-<!-- Hidden Matrix Portal -->
-<details>
-<summary>🔓 ACCESS NEURAL CORE</summary>
+---
 
 <div align="center">
 
-```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀
-⠀⠀⠀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealPrettyPay&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=0bc7d4&title_color=0bc7d4)
 
-    ███╗   ██╗███████╗██╗   ██╗██████╗  █████╗ ██╗         ██████╗ ██████╗ ██████╗ ███████╗
-    ████╗  ██║██╔════╝██║   ██║██╔══██╗██╔══██╗██║        ██╔════╝██╔═══██╗██╔══██╗██╔════╝
-    ██╔██╗ ██║█████╗  ██║   ██║██████╔╝███████║██║        ██║     ██║   ██║██████╔╝█████╗  
-    ██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██║██║        ██║     ██║   ██║██╔══██╗██╔══╝  
-    ██║ ╚████║███████╗╚██████╔╝██║  ██║██║  ██║███████╗   ╚██████╗╚██████╔╝██║  ██║███████╗
-    ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝    ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
-
-```
-
-[![Neural Core](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=18&duration=1000&pause=1000&color=FF0080&center=true&vCenter=true&width=600&height=80&lines=NEURAL+CORE+INITIALIZED;AI+SYSTEMS+OPERATIONAL;THREAT+ANALYSIS+ACTIVE;READY+FOR+DEPLOYMENT)](https://git.io/typing-svg)
+<sub>📍 Cologne, Germany</sub>
 
 </div>
-
-</details>
-
-
-<!--
-**RealPrettyPay/RealPrettyPay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
