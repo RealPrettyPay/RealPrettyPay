@@ -17,7 +17,7 @@
 | Project | Description |
 |---------|-------------|
 | **[Cubitics](https://cubitics.com)** | Hyperscale GPU data centers & AI cloud across Europe |
-| **Starlex AI** | European foundation models & vertical AI applications |
+| **[Starlex AI](https://starlex.ai)** | European foundation models & vertical AI applications |
 | **[VoteBase](https://votebase.de)** | Secure digital voting — Bitkom Smart Country Award 2022 🏆 |
 
 ### ⚡ Tech Stack
@@ -28,12 +28,10 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ### 🛤️ Background
 
-Cybersecurity → AI (since 2014) → Infrastructure. Started with pentesting & critical infrastructure at KPMG across automotive, pharma, finance, and aerospace. Now building the GPU compute layer Europe needs.
+Cybersecurity → AI (since 2014) → Infrastructure. Started with pentesting & critical infrastructure, across automotive, pharma, finance, and aerospace. Now building the GPU compute layer and AI Foundation Models Europe needs.
 
 ---
 
