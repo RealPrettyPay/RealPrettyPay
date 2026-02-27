@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Payman+Supervizer;Founder+%26+CEO+%40+Cubitics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Payman+Supervizer)](https://git.io/typing-svg)
 
 **Building Europe's sovereign AI infrastructure.**
 
