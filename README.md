@@ -45,28 +45,3 @@ Cybersecurity → AI (since 2014) → Infrastructure. Started with pentesting & 
 <sub>📍 Cologne, Germany</sub>
 
 </div>
-
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *" # runs daily at midnight
-  workflow_dispatch: # allows manual trigger
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: RealPrettyPay
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
