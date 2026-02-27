@@ -2,7 +2,7 @@
  ╭──────────────────────────────────────────────────────────────────-╮
  │                                                                   │
  │   Payman Supervizer                                               │
- │   Founder @ Starlex AI | Founder @ Cubitics | Co-Founder @VoteBase│
+ │   Founder @ Cubitics | Founder @ Starlex AI | Co-Founder @VoteBase│
  │                                                                   │
  │   Building Europe's sovereign AI infrastructure.                  │
  │   Hyperscale GPU data centers. Foundation models.                 │
